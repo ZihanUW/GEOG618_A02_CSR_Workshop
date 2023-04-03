@@ -4,7 +4,7 @@ install.packages("spatstat")
 install.packages("ggplot2")  
 # provides a flexible and powerful framework for creating data visualizations in R
 install.packages("maptools") 
-# provides tools for reading, writing, and manipulating spatial data in R, including shapefiles, maps, and raster images
+# provides tools for reading, writing, and manipulating spatial data in R, including shapefiles, maps, and raster imagess
 install.packages("sp")
 # used for working with spatial data, such as shapefiles, grids, and other geospatial datasets
 
